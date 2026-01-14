@@ -1,4 +1,3 @@
----
 
 ## 📌 Error Log Analyzer (Memory Efficient)
 
@@ -8,7 +7,6 @@ The project demonstrates **real-world backend and platform engineering practices
 
 It is built to scale from **local development** to **containerized execution**, making it suitable for log analysis, observability pipelines, and backend system diagnostics.
 
----
 
 ### 🔍 Key Highlights
 
