@@ -1,11 +1,40 @@
-# Error Log Analyzer (Memory Efficient)
+---
 
-A production-ready Python application for analyzing large-scale log files
-and identifying the most frequent ERROR messages using constant memory.
+## 📌 Error Log Analyzer (Memory Efficient)
+
+**Error Log Analyzer** is a production-ready, memory-efficient Python application designed to analyze large-scale application log files and identify the most frequent **ERROR** messages without loading the entire file into memory.
+
+The project demonstrates **real-world backend and platform engineering practices**, including streaming file processing, defensive parsing of logs, automated testing with coverage, containerization using Docker, and reproducible execution across environments.
+
+It is built to scale from **local development** to **containerized execution**, making it suitable for log analysis, observability pipelines, and backend system diagnostics.
 
 ---
 
-## 🚀 Features
+### 🔍 Key Highlights
+
+* **Memory-efficient log processing** using generators to safely handle very large log files (10GB+)
+* **Structured log parsing** for `[TIMESTAMP] [LEVEL] [MESSAGE]` formatted logs
+* **Accurate aggregation** of frequent ERROR messages using efficient data structures
+* **Comprehensive unit testing** with `pytest` and test coverage reporting
+* **Dockerized application** for consistent, portable execution across systems
+* **Clean project structure** following industry best practices
+* **Production-oriented tooling** (pytest, coverage, Docker, GitHub-ready)
+
+---
+
+### 🛠️ What This Project Demonstrates
+
+* Backend engineering fundamentals (file I/O, streaming, parsing, aggregation)
+* Performance and memory optimization techniques
+* Test-driven development mindset
+* DevOps and containerization workflows
+* Practical troubleshooting and environment setup (Docker, WSL, coverage tooling)
+
+---
+
+
+
+## Features
 
 - Streaming file processing (10GB+ safe)
 - Behavior-driven log generation
