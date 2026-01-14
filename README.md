@@ -215,8 +215,9 @@ Start **Docker Desktop** and retry.
 
 ## 👨‍💻 Author
 
-**Naman Kabadi**
+**Naman Kabadi**  
 Software Engineer
+
 
 ---
 
