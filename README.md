@@ -192,8 +192,6 @@ Top 5 ERROR Messages:
 # System Outputs:
 ![output_1](cmd_output_1.png)
 
-# Coverage Report:
-![output_1](coverage_report_ss.png)
 # 🔹 Troubleshooting
 
 ### ❌ `ModuleNotFoundError`
@@ -217,13 +215,15 @@ Start **Docker Desktop** and retry.
 
 ---
 
+
+---
+
+# Coverage Report:
+![output_1](coverage_report_ss.png)
 ## 👨‍💻 Author
 
 **Naman Kabadi**  
 Software Engineer
-
-
----
 
 
 
