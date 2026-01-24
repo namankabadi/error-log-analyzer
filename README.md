@@ -194,7 +194,6 @@ Top 5 ERROR Messages:
 
 # Coverage Report:
 ![output_1](coverage_report_ss.png)
-
 # 🔹 Troubleshooting
 
 ### ❌ `ModuleNotFoundError`
