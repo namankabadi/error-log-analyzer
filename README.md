@@ -189,6 +189,8 @@ Top 5 ERROR Messages:
 ```
 
 ---
+# System Outputs:
+![output_1](cmd_output_1.png)
 
 # 🔹 Troubleshooting
 
