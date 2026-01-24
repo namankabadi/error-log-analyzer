@@ -217,12 +217,13 @@ Start **Docker Desktop** and retry.
 
 
 ---
-
+## 👨‍💻 Author
 **Naman Kabadi**  
 Software Engineer
+
 # Coverage Report:
 ![output_1](coverage_report_ss.png)
-## 👨‍💻 Author
+
 
 
 
